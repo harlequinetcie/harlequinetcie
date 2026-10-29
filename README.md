@@ -10,4 +10,3 @@ Ok, but what do you do?
 I define a vision, crystalize objectives, & build orgs, so teams won't need me anymore; sometimes with Tech, sometimes with coaching, mentoring, advising, some times very hands on. That's the win, that's the swarm.
 
 [b](https://pleasedontdeploy.com).[in](https://linkedin.com/in/ecura).[x](https://x.com/ecura)
------ END README.md -----
