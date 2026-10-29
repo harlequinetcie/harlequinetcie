@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ez.-
 
-<!--
-**harlequinetcie/harlequinetcie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Co-founder @ [Desplega Labs](https://desplega.sh). 
+We build [agent-swarm.dev](agent-swarm.dev), an [OSS/MIT company OS](https://github.com/desplega-ai/agent-swarm/). 
+If you want to have an AI native organization, without your team even knowing about it, try it out.
 
-Here are some ideas to get you started:
+Before that, TLM/Staff SWE @ Google & SVP @ Capchase. Leading Tech, Product, UX, and more. I can tell you over coffee. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ok, but what do you do?
+I define a vision, crystalize objectives, & build orgs, so teams won't need me anymore; sometimes with Tech, sometimes with coaching, mentoring, advising, some times very hands on. That's the win, that's the swarm.
+
+[b](https://pleasedontdeploy.com).[in](https://linkedin.com/in/ecura).[x](https://x.com/ecura)
+----- END README.md -----
